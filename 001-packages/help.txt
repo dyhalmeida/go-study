@@ -1,0 +1,14 @@
+/* Inicializa um módulo */
+go mod init module_name
+
+/* Execua um programa GO */
+go run main.go
+
+/* Instala dependências */
+go get github.com/badoux/checkmail
+
+/* Remove dependências não utilizada do módulo*/
+go mod tidy -v
+
+/* Gera um build do módulo */
+go build
