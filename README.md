@@ -7,6 +7,6 @@
     - [Como criar e escrever em um arquivo](https://github.com/dyhalmeida/go-study/tree/study/important-packages/001-create-and-write-file)
     - [Como ler um arquivo pequeno](https://github.com/dyhalmeida/go-study/tree/study/important-packages/002-read-small-file)
     - [Como ler um arquivo grande](https://github.com/dyhalmeida/go-study/tree/study/important-packages/003-read-large-file)
-    - [Como fazer um simples http requesr](https://github.com/dyhalmeida/go-study/tree/study/important-packages/004-http-request)
+    - [Como fazer um simples http request](https://github.com/dyhalmeida/go-study/tree/study/important-packages/004-http-request)
     - [Como converter uma struct em json](https://github.com/dyhalmeida/go-study/tree/study/important-packages/005-convert-struct-to-json)
     - [Como converter um json em uma struct](https://github.com/dyhalmeida/go-study/tree/study/important-packages/006-convert-json-to-struct)
