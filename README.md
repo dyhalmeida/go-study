@@ -10,3 +10,4 @@
     - [Como fazer um simples http request](https://github.com/dyhalmeida/go-study/tree/study/important-packages/004-http-request)
     - [Como converter uma struct em json](https://github.com/dyhalmeida/go-study/tree/study/important-packages/005-convert-struct-to-json)
     - [Como converter um json em uma struct](https://github.com/dyhalmeida/go-study/tree/study/important-packages/006-convert-json-to-struct)
+- [Go Expert](https://github.com/dyhalmeida/go-study/tree/study/go-expert-fc)
