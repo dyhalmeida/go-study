@@ -4,3 +4,4 @@
     - [Introdução](https://github.com/dyhalmeida/go-study/tree/study/go-expert/what-is-the-go-language/what-is-the-go-language.md)
     - [História](https://github.com/dyhalmeida/go-study/tree/study/go-expert/history/history.md)
     - [O que o Go não é](https://github.com/dyhalmeida/go-study/tree/study/go-expert/what-go-is-not/what-go-is-not.md)
+    - [Motivação da existência do Go](https://github.com/dyhalmeida/go-study/tree/study/go-expert/motivation-for-the-existence-of-go/motivation-for-the-existence-of-go.md)
